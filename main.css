@@ -20,15 +20,20 @@
 }
 
 .box3 {
-  background-color: rgb(230, 230, 250);
+  background-color: rgba(230, 230, 250,0.6);
+}
+h2{
+  opacity: 0.5;
 }
 
 .box5 {
   background-color: lemonchiffon;
+  box-shadow: 8px 20px 15px teal;
 }
 
 .box6 {
   background-color: papayawhip;
+  box-shadow: 5px -10px #800000;
 }
 
 
